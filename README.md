@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @TaiDough
+- I'm only doing this to start a home lab and use a ssh key if I made something hurray thanks for coming and I can't believe you think I'm a coder.
